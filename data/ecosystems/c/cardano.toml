@@ -28,6 +28,7 @@ sub_ecosystems = [
   "Teddy Swap",
   "TxPipe",
   "WingRiders",
+  "DripDropz",
 ]
 
 github_organizations = [
@@ -37,6 +38,11 @@ github_organizations = [
   "https://github.com/CardanoSolutions",
   "https://github.com/input-output-hk",
   "https://github.com/stakhanovite-io",
+  "https://github.com/DripDropz",
+  "https://github.com/CardanoGateKeeper",
+  "https://github.com/adosia",
+  "https://github.com/Crypto2099",
+  "https://github.com/cardano-mercury",
 ]
 
 # Repositories
@@ -2650,3 +2656,21 @@ url = "https://github.com/woofpool/cardano-private-testnet-setup"
 
 [[repo]]
 url = "https://github.com/wutzebaer/cardano-tools"
+
+[[repo]]
+url = "https://github.com/DripDropz/onchain-voting"
+
+[[repo]]
+url = "https://github.com/DripDropz/remote-signer"
+
+[[repo]]
+url = "https://github.com/CardanoGateKeeper/Core"
+
+[[repo]]
+url = "https://github.com/adosia/Heidrun"
+
+[[repo]]
+url = "https://github.com/Crypto2099/unfrackit"
+
+[[repo]]
+url = "https://github.com/cardano-mercury/cardano-mercury-woocommerce"
